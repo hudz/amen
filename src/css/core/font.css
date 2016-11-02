@@ -1,0 +1,57 @@
+
+@font-face {
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+src: local('Open Sans'), url('../fonts/Open-Sans.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/Segoe-UI.ttf');
+	/*src: local('Segoe UI'), url('../fonts/Segoe-UI.ttf') format('woff');*/
+}
+
+@font-face {
+	font-family: 'corbel';
+	src: url('../fonts/CORBEL.TTF');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'lucidaGrande';
+	src: url('../fonts/Lucida-Grande.TTF');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+@font-face {
+	font-family: 'lucidaGrandeBold';
+	src: url('../fonts/Lucida-Grande-Bold.TTF');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: "Varela Round";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Varela Round"), local("VarelaRound-Regular"), url("http://themes.googleusercontent.com/static/fonts/varelaround/v3/APH4jr0uSos5wiut5cpjrnZ2MAKAc2x4R1uOSeegc5U.eot") format("embedded-opentype"), url("http://themes.googleusercontent.com/static/fonts/varelaround/v3/APH4jr0uSos5wiut5cpjrnhCUOGz7vYGh680lGh-uXM.woff") format("woff");
+}
+@font-face {
+    font-family: "Kreon";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Kreon Light"), local("Kreon-Light"), url("http://themes.googleusercontent.com/static/fonts/kreon/v6/nl7zhyJwVeYc1UjfSbOti_esZW2xOQ-xsNqO47m55DA.eot") format("embedded-opentype"), url("http://themes.googleusercontent.com/static/fonts/kreon/v6/foDwQzChAOJL0-zU6ynhJ_esZW2xOQ-xsNqO47m55DA.woff") format("woff");
+}
+@font-face {
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Oswald "), local("Oswald"), url("http://themes.googleusercontent.com/static/fonts/oswald/v5/-WzdRTzRa5k6HlJK6-dK9Q.eot") format("embedded-opentype"), url("http://themes.googleusercontent.com/static/fonts/oswald/v5/-g5pDUSRgvxvOl5u-a_WHw.woff") format("woff");
+}

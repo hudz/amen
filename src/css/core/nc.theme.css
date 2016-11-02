@@ -1,0 +1,98 @@
+/* browse coloring scheme online*/
+/* Blue color scheme: */
+/* http://colorschemedesigner.com/#3T11TmCUfw0w0 */
+
+#colored-bar{
+	/*background:url("../images/common/red-bar.png") repeat-x scroll 0 0 #CF0000;*/
+	background-color: #5B72EE !important;
+    border-bottom: 1px solid #1E319B !important;
+}
+
+#top-bar{
+   		font-family:Arial;
+   		/*background:url("../images/common/red-bar.png") repeat-x scroll 0 0 #CF0000;*/
+		color:#EEEEEE !important;
+   	}
+   	
+   	
+#breadcrumb-text{
+	/*padding:4px 2px 2px 201px;*/
+	border-left: 1px solid #8496F6  !important;
+	box-shadow: -1px 0 0 #8496F6  !important;
+}
+
+
+#breadcrumb-bar{
+	background-color: #8496F6 !important;
+    border-bottom: 1px solid #5B72EE !important;
+    border-top: 1px solid #A3B0F6 !important;
+}
+
+#breadcrumb-bar font{
+	color: #fff !important;
+}
+
+
+tbody tr td a {
+    color: #1E319B !important;
+}
+
+.usual ul {
+    border-bottom: 1px solid #5B72EE  !important;
+}
+
+div.settings:hover{
+	/*background-color: #1E319B !important;*/
+}
+
+
+div.dropdownCont div.dcWrapper ul li a{
+    border-bottom: 0px solid #5B72EE !important;
+    color: #1E319B !important;
+}
+
+div.dropdownCont div.dcWrapper ul li a:hover {
+    background-color: #8496F6 !important;
+    color:#fff !important;
+}
+
+.ac_over {
+    background-color: #8496F6 !important;
+}
+
+	
+.tablesorter th
+, .sortablescroll th
+, .sortablescroll thead td
+, .sortableTableHead
+, tr.rowHeadContent td
+, tr.tableHeadContent td
+, .rowHeaderContent td
+, .form_header {
+	background-color: #f9f9f9 !important;
+}	
+
+.sortablescroll th.headerSortDown,
+.sortablescroll th.headerSortUp,
+.sortableTableHead .headerSortDown,
+.sortableTableHead .headerSortUp,
+tr.rowHeadContent td.headerSortDown,
+tr.rowHeadContent td.headerSortUp,
+tr.tableHeadContent td.headerSortDown,
+tr.tableHeadContent td.headerSortUp,
+.rowHeaderContent td.headerSortDown,
+.rowHeaderContent td.headerSortUp
+{
+	color:#f9f9f9 !important;
+	background:-moz-linear-gradient(center top , #8496F6, #8496F6) repeat scroll 0 0 transparent !important;
+	background:-webkit-linear-gradient(-90deg, #8496F6, #8496F6) repeat scroll 0 0 transparent !important;
+	border-bottom-color: #5B72EE !important;
+}
+
+.sortablescroll tr.odd.light td.columnBodyContent, .sortablescroll tbody tr:not(.even) {
+    background-color: #F8f8f8 !important;
+}
+
+tr.tableRowEven, tr.even {
+    background-color: #f8f8f8 !important;
+}
